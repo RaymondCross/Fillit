@@ -5,3 +5,9 @@
  #### Project Grade: 100/100
  
  Noob friendly
+
+ To run my fillit
+ 
+ `make`
+ 
+ `./fillit [file]`
