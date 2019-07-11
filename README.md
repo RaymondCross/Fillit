@@ -1,6 +1,6 @@
 # Fillit
  
- 42 project to fill 0-26 valid tetriminos in the smallest N x N grid
+ 42 project to fill 1-26 valid tetriminos in the smallest N x N grid
  
  #### Project Grade: 100/100
  
